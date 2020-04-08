@@ -54,5 +54,5 @@ genPasswords(options).then((result) => {
 You can create a nodejs lambda function with the lambda folder.
 
 ## Questions?
-* Found a bug or just have a question? [Open an](https://github.com/jctrvlr/password_gen/issues/new) issue here on Github!
+* Found a bug or just have a question? [Open an](https://github.com/jctrvlr/xkcd-pass-gen/issues/new) issue here on Github!
 * Tweet at me [@thecuriouseng](https://twitter.com/thecuriouseng) 
