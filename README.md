@@ -1,4 +1,8 @@
 # XKCD-based Password Generator - Based on XKPasswd - Bart Busschots <https://xkpasswd.net>
+
+ [![dependency status](https://david-dm.org/jctrvlr/xkcd-pass-gen.svg)](https://david-dm.org/jctrvlr/xkcd-pass-gen)
+ [![Downloads](https://img.shields.io/npm/dm/xkcd-pass-gen.svg?style=flat)](https://www.npmjs.org/package/xkcd-pass-gen) [![Version](https://img.shields.io/npm/v/xkcd-pass-gen.svg?style=flat)](https://www.npmjs.org/package/xkcd-pass-gen)  [![GitHub issues](https://img.shields.io/github/issues/jctrvlr/xkcd-pass-gen.svg)](https://github.com/jctrvlr/xkcd-pass-gen/issues) [![Build Status](https://travis-ci.org/jctrvlr/xkcd-pass-gen.svg?branch=master)](https://travis-ci.org/jctrvlr/xkcd-pass-gen)
+
 Generates a password based on parameters.
 
 ## Install
