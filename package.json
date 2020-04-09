@@ -4,7 +4,7 @@
   "description": "Random pasword generate -- Lambda function",
   "main": "index.js",
   "scripts": {
-    "lint": "./node_modules/.bin/eslint ."
+    "test": "./node_modules/.bin/eslint ."
   },
   "repository": {
     "type": "git",
