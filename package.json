@@ -4,12 +4,11 @@
   "description": "Random pasword generate -- Lambda function",
   "main": "index.js",
   "scripts": {
-    "test": "tape test/*.js && npm run lint",
     "lint": "./node_modules/.bin/eslint ."
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jctrvlr/password_gen.git"
+    "url": "git://github.com/jctrvlr/xkcd-pass-gen.git"
   },
   "keywords": [
     "password",
@@ -19,7 +18,7 @@
     "random"
   ],
   "bugs": {
-    "url": "https://github.com/jctrvlr/password_gen/issues"
+    "url": "https://github.com/jctrvlr/xkcd-pass-gen/issues"
   },
   "author": "John Cummings <jack@jackc.io>",
   "license": "MIT",
