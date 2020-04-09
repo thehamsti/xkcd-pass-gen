@@ -1,6 +1,6 @@
 {
   "name": "xkcd-pass-gen",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Random pasword generate -- Lambda function",
   "main": "index.js",
   "scripts": {
